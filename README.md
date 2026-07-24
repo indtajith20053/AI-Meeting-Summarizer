@@ -65,7 +65,5 @@ AI-Meeting-Summarizer/
 - [ ] Add a `requirements.txt`
 - [ ] Support longer meetings with chunked summarization
 
-## License
 
-Add a license of your choice (e.g. MIT) if you plan to share this publicly.
 
